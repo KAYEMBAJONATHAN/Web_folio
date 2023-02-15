@@ -78,7 +78,7 @@ Clone this repository to your desired folder:
 
 
 ```sh
-  cd my-folder
+  cd web_folio
   git clone https://github.com/KAYEMBAJONATHAN/Web_folio
 ```
 
